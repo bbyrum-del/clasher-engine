@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clasher Engine</string>
+    <string name="permission_required">Overlay Permission Required</string>
+    <string name="permission_message">This app needs overlay permission to display over Clash Royale</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="service_running">Clasher Engine is monitoring for Clash Royale</string>
+    <string name="start_service">Start Overlay Service</string>
+    <string name="stop_service">Stop Overlay Service</string>
+    <string name="service_started">Service Started - Overlay will appear when Clash Royale opens</string>
+    <string name="service_stopped">Service Stopped</string>
+    <string name="clash_royale_detected">Clash Royale Detected!</string>
+</resources>
